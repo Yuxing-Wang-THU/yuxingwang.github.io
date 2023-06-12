@@ -17,35 +17,24 @@ Feel free to drop me an email if you are interested in my research or related id
 
 Recent News
 ======
-* [2023/06] &#x1F4E3; One paper submitted to [CoRL 2023](https://www.corl2023.org/)
-
-* [2023/05] Served as a peer reviewer for [NIPS 2023](https://nips.cc/Conferences/2023/Board)
-
-* [2023/05] One paper got accepted to [IEEE Transactions on Neural Networks and Learning Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)
-
-* [2023/01] One paper got accepted to [ICLR 2023](https://iclr.cc/Conferences/2023)
-
-* [2022/12] One paper got accepted to [Information Sciences](https://www.sciencedirect.com/journal/information-sciences)
+&#x1F4E3; [2023/06] One paper submitted to [CoRL 2023](https://www.corl2023.org/)
+&#x1F4E3; [2023/05] Served as a peer reviewer for [NIPS 2023](https://nips.cc/Conferences/2023/Board)
+&#x1F4E3; [2023/05] One paper got accepted to [IEEE TNNLS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)
+&#x1F4E3; [2023/04] Finished research internship at [Tencent AI Lab](https://ai.tencent.com/ailab/)
+&#x1F4E3; [2023/01] One paper got accepted to [ICLR 2023](https://iclr.cc/Conferences/2023)
+&#x1F4E3; [2022/12] One paper got accepted to [Information Sciences](https://www.sciencedirect.com/journal/information-sciences)
 
 
 Accomplish­ments
 ======
 * 2017-2019 National Scholarship
-
 * 2017 International Underwater Robot Competition (First Prize)
-
 * 2018 Mathematical Contest in Modeling (Honorable Mention)
-
 * 2018 “TI Cup” National Undergraduate IOT Design Contest (First Prize in Central and Southwestern China Division)
-
 * 2019 “Challenge Cup” National College Student Curricular Academic Science and Technology Works Competition (Bronze Award in Sichuan Province)
-
 * 2020 Outstanding Graduate of Sichuan Province
-
 * 2020 《PEOPLE’s DAILY》Representative List of National Scholarship Winners for Undergraduate Students
-
 * 2022 Tencent Rhino-Bird Research Elite Program
-
 
 Vistors
 ======
