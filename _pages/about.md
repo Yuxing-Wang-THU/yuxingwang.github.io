@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink:
 title: "About me"
 excerpt: "Yuxing Wang"
 author_profile: true
