@@ -7,9 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-您好 Hello Bonjour こんにちは Hallo Здравствыйте 안녕하세요
-
 Welcome to my homepage!
 
 Yuxing Wang is a master student at [Tsinghua University](https://www.tsinghua.edu.cn/) with broad interests in Robotics, Physics Simulation, Evolutionary Reinforcement Learning and Embodied AI. Before coming to Tsinghua, he obtained the bachelor’s degree from [Southwest Minzu University](https://www.swun.edu.cn/). He worked at [Tencent AI Lab](https://ai.tencent.com/ailab/) as a research intern for one year. Besides research, he enjoys playing Chinese bamboo flute and reading comic books.
@@ -20,15 +17,15 @@ Feel free to drop me an email if you are interested in my research or related id
 
 Recent News
 ======
-* One paper submitted to [CoRL 2023](https://www.corl2023.org/)
+* [2023/06] &#x1F4E3; One paper submitted to [CoRL 2023](https://www.corl2023.org/)
 
-* I served as a peer reviewer for [NIPS 2023](https://nips.cc/Conferences/2023/Board)
+* [2023/05] Served as a peer reviewer for [NIPS 2023](https://nips.cc/Conferences/2023/Board)
 
-* One paper got accepted to [IEEE Transactions on Neural Networks and Learning Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)
+* [2023/05] One paper got accepted to [IEEE Transactions on Neural Networks and Learning Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)
 
-* One paper got accepted to [ICLR 2023](https://iclr.cc/Conferences/2023)
+* [2023/01] One paper got accepted to [ICLR 2023](https://iclr.cc/Conferences/2023)
 
-* One paper got accepted to [Information Sciences](https://www.sciencedirect.com/journal/information-sciences)
+* [2022/12] One paper got accepted to [Information Sciences](https://www.sciencedirect.com/journal/information-sciences)
 
 
 Accomplish­ments
