@@ -16,14 +16,14 @@ Education
 
 Work experience
 ======
-* Tencent AI Lab: Research Intern
+* **Tencent AI Lab**: Research Intern (2022.05-2023.05)
   * Funded by 2022 Tencent Rhino-Bird Research Elite Program
-  * Duties included: Tagging issues
+  * Research Topic: Quality-Similarity Diversity Optimization for Generating User-Preferred Game AI 
   * Supervisor: [Shuang Wu](https://scholar.google.com/citations?hl=zh-CN&user=_MtBmxkAAAAJ) and [Haobo Fu](https://haobofu.github.io/)
   
 Skills
 ======
-* Python Torch Linux C++ MS Office Suite ...
+* Python、Torch、Linux、C++、MS Office Suite ...
 
 Publications
 ======
@@ -31,18 +31,12 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Academic Service (Reviewer): TNNLS, INFORMATION SCIENCES, IEEE ACCESS, NIPS 2023 
+* Vice president of the students’ robot association and mathematical modeling association (SMU), 2018-2020
+* Teaching assistant of “Data Mining” and “Ethics of Artificial Intelligence” (THU), Fall 2021
+
+Interests
+======
+* Table tennis, voluntary work and bamboo flute 
