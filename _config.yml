@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Yuxing Wang|(王昱兴)"
-  avatar           : "profile.png"
-  bio              : "Master Student @ Tsinghua University"
+  avatar           : "yuxing.jpg"
+  bio              : "Master Student @ Tsinghua"
   location         : "China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=ac-6jfMAAAAJ"
   email            : "wyx20@mails.tsinghua.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/Yuxing-Wang-THU"
+  github           : "Yuxing-Wang-THU"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  # orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
