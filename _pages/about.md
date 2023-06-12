@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Yuxing Wang"
-excerpt: "About me"
+title: "About me"
+excerpt: "Yuxing Wang"
 author_profile: true
 redirect_from: 
   - /about/
