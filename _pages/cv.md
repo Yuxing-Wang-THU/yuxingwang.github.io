@@ -16,24 +16,14 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* Tencent AI Lab: Research Intern
+  * Funded by 2022 Tencent Rhino-Bird Research Elite Program
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: [Shuang Wu](https://scholar.google.com/citations?hl=zh-CN&user=_MtBmxkAAAAJ) and [Haobo Fu](https://haobofu.github.io/)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python Torch Linux C++ MS Office Suite ...
 
 Publications
 ======
