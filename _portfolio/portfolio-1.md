@@ -1,12 +1,14 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/fish.jpg' width=500 height=300 >"
+title: "International Underwater Robot Competition"
+excerpt: "2D Simulation League <br/><img src='/images/fish.jpg' width=500 height=300>"
 collection: portfolio
 ---
 
 The International Underwater Robot Competition is an international contest sponsored by the International League of Underwater Robots (ILUR) supported by both the UNESCO Industry-University Cooperative Education & the Ministry of Education’s Innovative Education Method Steering Committee.
 
-<div align="center"> <img src='/images/ff.jpg' width=500 height=300> </div>
+<div align="center"> <img src='/images/ff.png' width=500 height=300> </div>
+
+<div align="center"> <img src='/images/a.png' width=500 height=300> </div>
 
 In the 2D Simulation League, teams of autonomous software programs play in a two-dimensional virtual playground represented by a central server, called URWPGSim2DServer. This server knows everything about the game, i.e. the current position of all fishes and the physics. The game further relies on communication between the server and each agent. Each fish receives relative and noisy input from its virtual sensors and performs some basic commands to influence its environment.
 
