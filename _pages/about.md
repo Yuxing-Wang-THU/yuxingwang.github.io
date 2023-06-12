@@ -12,7 +12,7 @@ redirect_from:
 
 Welcome to my homepage!
 
-Yuxing Wang is a master student at [Tsinghua University](https://www.tsinghua.edu.cn/) with broad interests in Robotics, Physics Simulation, Evolutionary Reinforcement Learning and Embodied AI. Before coming to Tsinghua, he obtained the bachelor’s degree from [Southwest Minzu University](https://www.swun.edu.cn/). He worked at [Tencent AI Lab](https://ai.tencent.com/ailab/) as a research intern for one year. Besides research, he enjoys playing Chinese bamboo flute and reading comic books.
+<center>Yuxing Wang is a master student at [Tsinghua University](https://www.tsinghua.edu.cn/) with broad interests in Robotics, Physics Simulation, Evolutionary Reinforcement Learning and Embodied AI. Before coming to Tsinghua, he obtained the bachelor’s degree from [Southwest Minzu University](https://www.swun.edu.cn/). He worked at [Tencent AI Lab](https://ai.tencent.com/ailab/) as a research intern for one year. Besides research, he enjoys playing Chinese bamboo flute and reading comic books.</center>
 
 He aims to develop intelligent robotic systems that dynamically adapt their morphologies and behaviors. Through this lens, He develops algorithms for co-designing the brain and body of various robots.
 
@@ -48,3 +48,6 @@ Accomplish­ments
 * 2020 《PEOPLE’s DAILY》Representative List of National Scholarship Winners for Undergraduate Students
 
 * 2022 Tencent Rhino-Bird Research Elite Program
+
+
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/1.js?i=5la4vnho5tp&amp;s=206&amp;m=0&amp;v=true&amp;r=false&amp;b=000000&amp;n=false&amp;c=ff0000" async="async"></script>
