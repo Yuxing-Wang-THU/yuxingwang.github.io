@@ -11,19 +11,19 @@ redirect_from:
 
 Education
 ======
-* M.Eng. in Electronic Information and Engineering, Tsinghua University, 2020.08-2023.06
-* B.Eng. in Communication Engineering, Southwest Minzu University, 2016.09-2020.06
+* **M.Eng.** in Electronic Information and Engineering, Tsinghua University, 2020.08-2023.06
+* **B.Eng.** in Communication Engineering, Southwest Minzu University, 2016.09-2020.06
 
 Work experience
 ======
-* **Tencent AI Lab**: Research Intern (2022.05-2023.05)
+* **Tencent AI Lab/AI Platform Department**: Research Intern (2022.05-2023.05)
   * Funded by 2022 Tencent Rhino-Bird Research Elite Program
   * Research Topic: Quality-Similarity Diversity Optimization for Generating User-Preferred Game AI 
   * Supervisor: [Shuang Wu](https://scholar.google.com/citations?hl=zh-CN&user=_MtBmxkAAAAJ) and [Haobo Fu](https://haobofu.github.io/)
   
 Skills
 ======
-* Python、Torch、Linux、C++、MS Office Suite ...
+* Python、Torch、Linux、Tex、C++、MS Office Suite ...
 
 Publications
 ======
