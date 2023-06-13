@@ -19,9 +19,9 @@ Recent News!
 &#x1F4E3; [2023/05] One [paper](https://ieeexplore.ieee.org/abstract/document/10145851) got accepted to [IEEE TNNLS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385) **(Top Journal, IF=14.255)**<br /> 
 &#x1F4E3; [2023/04] Finished one-year research internship at [Tencent AI Lab](https://ai.tencent.com/ailab/)<br />
 &#x1F4E3; [2023/01] One [paper](https://iclr.cc/virtual/2023/poster/10693) got accepted to [ICLR 2023](https://iclr.cc/Conferences/2023) **(Top Conference)**<br />
-&#x1F4E3; [2022/12] One [paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025522012658) got accepted to [Information Sciences](https://www.sciencedirect.com/journal/information-sciences) **(Top Journal, IF=8.233)**
-
-
+&#x1F4E3; [2022/12] One [paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025522012658) got accepted to [Information Sciences](https://www.sciencedirect.com/journal/information-sciences) **(Top Journal, IF=8.233)**<br />
+&#x1F4E3; ...
+ 
 Accomplish­ments
 ======
 * 2017-2019 National Scholarship
