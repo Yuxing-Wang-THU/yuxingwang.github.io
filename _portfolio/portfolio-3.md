@@ -1,6 +1,6 @@
 ---
 title: "ModularEvoGym"
-excerpt: "2D Simulation League <br/><img src='/images/fish.jpg' width=500 height=300>"
+excerpt: "Co-designing modular soft robots <br/><img src='/images/modu.jpg' width=500 height=300>"
 collection: portfolio
 ---
 
