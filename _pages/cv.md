@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Download my CV here!](./YW_Resume.pdf)<br />
+[Download my CV here!](./YW_Resume.pdf)
+
 Education
 ======
 * **M.Eng.** in Electronic Information and Engineering, Tsinghua University, 2020.08-2023.06
