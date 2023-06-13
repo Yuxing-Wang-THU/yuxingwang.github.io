@@ -30,17 +30,17 @@ citation: 'Yuxing Wang, Tiantian Zhang, Yongzhe Chang, Bin Liang, Xueqian Wang, 
 A HalfCheetah agent trained by SPDERL-I with average performance of 14000 points over 50 test seeds. The agent is able to adjust its posture more appropriately and run faster.
 
 <video id="video0" controls="" preload="none" width=510>
-    <source id="mp4" src="/images/2.HalfCheetah_trained_by_SPDERL-I_14000.mp4" type="video/mp4">
+    <source id="0mp4" src="/images/2.HalfCheetah_trained_by_SPDERL-I_14000.mp4" type="video/mp4">
 </videos>
 
 A Hopper agent trained by SPDERL-I with average performance of 4100 points over 50 test seeds. The agent jumps faster and learns to better stabilize the center of gravity.
 
 <video id="video1" controls="" preload="none" width=510>
-    <source id="mp4" src="/images/3.Hopper_trained_by_SPDERL-I_4100.mp4" type="video/mp4">
+    <source id="1mp4" src="/images/3.Hopper_trained_by_SPDERL-I_4100.mp4" type="video/mp4">
 </videos>
 
 A Walker agent trained by SPDERL-G with average performance of 9000 points over 50 test seeds. The agent learns to walk with only one leg and use the other leg to maintain balance.
 
 <video id="video2" controls="" preload="none" width=510>
-    <source id="mp4" src="/images/6.Walker_trained_by_SPDERL-G_9000.mp4" type="video/mp4">
+    <source id="2mp4" src="/images/6.Walker_trained_by_SPDERL-G_9000.mp4" type="video/mp4">
 </videos>

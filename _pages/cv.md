@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Download my CV here!](./YW_Resume.pdf)
+&#x1F449;[Download my CV here!](./YW_Resume.pdf)
 
 Education
 ======
@@ -32,9 +32,9 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Academic service and leadership
 ======
-* Academic Service (Reviewer): TNNLS, INFORMATION SCIENCES, IEEE ACCESS, NIPS 2023 
+* Reviewer: TNNLS, Information Sciences, IEEE access, NIPS 2023 
 * Vice president of the students’ robot association and mathematical modeling association (SMU), 2018-2020
 * Teaching assistant of “Data Mining” and “Ethics of Artificial Intelligence” (THU), Fall 2021
 

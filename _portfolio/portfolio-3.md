@@ -36,6 +36,7 @@ $11 \times 11$ design space, $121$ voxels.
 <div align="center"> <img src='/images/5.gif' width=500 height=300> </div>
 
 **Reference**
+
 [1] [ModularEvoGym](https://github.com/Yuxing-Wang-THU/ModularEvoGym)<br/>
 [2] [Evolution Gym: A Large-Scale Benchmark for Evolving Soft Robots](https://evolutiongym.github.io/)<br/>
 [3] [Attention Is All You Need](https://arxiv.org/abs/1706.03762)<br/>
