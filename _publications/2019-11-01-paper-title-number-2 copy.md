@@ -1,7 +1,7 @@
 ---
 title: "A weighted minimum distance classifier based on relative offset"
 collection: publications
-permalink: /publication/2021-11-01-paper-title-number-2
+permalink: /publication/2019-11-01-paper-title-number-2
 # excerpt: "Ethical analysis and reflections on privacy issues from the perspective of hardware and software. <br/><img src='/images/eth.jpg' width=300>"
 date: 2019-11-01
 venue: 'IEEE 4th International Conference on Cloud Computing and Big Data Analysis (ICCCBDA)'
