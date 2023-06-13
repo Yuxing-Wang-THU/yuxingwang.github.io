@@ -14,7 +14,6 @@ In the 2D Simulation League, teams of autonomous software programs play in a two
 
 In this contest, we first control the light blue simulated fish to attack the yellow simulated fishes controlled by the defender (the other team), while the defender can also use a dark blue simulated fish to block the attacker's attack. The game changes the side after 5 minutes. We won the first prize in IURC 2017 and IURC 2018.
 
-
 <video id="video0" controls="" preload="none" width=510>
     <source id="0mp4" src="/images/catcher.mp4" type="video/mp4">
 </videos>
