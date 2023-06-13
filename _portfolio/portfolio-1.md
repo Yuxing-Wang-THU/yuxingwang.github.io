@@ -1,19 +1,46 @@
 ---
-title: "International Underwater Robot Competition"
-excerpt: "2D Simulation League <br/><img src='/images/fish.jpg' width=500 height=300>"
+title: "ModularEvoGym"
+excerpt: "Co-designing modular soft robots with ModularEvoGym. <br/><img src='/images/modu.jpg' width=500 height=300>"
 collection: portfolio
 ---
 
-The International Underwater Robot Competition is an international contest sponsored by the International League of Underwater Robots (ILUR) supported by both the UNESCO Industry-University Cooperative Education & the Ministry of Education’s Innovative Education Method Steering Committee.
+<div align="center"> <img src='/images/robot2.gif' width=500 height=300> </div>
 
-<div align="center"> <img src='/images/ff.png' width=500 height=300> </div>
+ModularEvoGym [1] is based on Evolution Gym [2], a large-scale benchmark for co-optimizing the design and control of Voxel-based Soft Robots (VSRs). We modified the original state representation to formulate a new modular observation space. The input state of the robot at time step $t$ is represented as $s_{t}^{c}=\lbrace s_{t}^{v},s_{t}^{g}\rbrace$, where $s_{t}^{v}=\lbrace s_{t}^{v_{1}}, s_{t}^{v_{2}},...,s_{t}^{v_N}\rbrace$, $s_{t}^{v_i}$ is composed of each voxel's local information which contains the relative position of its four corners with respect to the center of mass of the robot and its material information (e.g., soft voxel, rigid voxel, horizontal actuator and vertical actuator). $s_{t}^{g}$ is the task-related observation such as terrain information of the environment and goal-relevant information. During the simulation, voxels (except empty voxels) only sense locally, and based on the input sensory information, a controller outputs control signals to vary the volume of actuator voxels. The morphology of the robot is unchangeable during the interaction with the environment.
 
-In the 2D Simulation League, teams of autonomous software programs play in a two-dimensional virtual playground represented by a central server, called URWPGSim2DServer. This server knows everything about the game, i.e. the current position of all fishes and the physics. The game further relies on communication between the server and each agent. Each fish receives relative and noisy input from its virtual sensors and performs some basic commands to influence its environment.
+<div align="center"> <img src='/images/robot.gif' width=500 height=300> </div>
 
-**Survival Challenge**
+With the support of ModularEvoGym, we can do many interesting things. We modeled the local observations of all voxels as a sequence and adopted the self-attention mechanism [3] to develop a more efficient controller (shown below) that handles incompatible state-action spaces. This controller can be trained by popular Reinforcement Learning algorithms (e.g., PPO [4]) to simultaneously control a variety of robot morphologies.
 
-In this contest, we first control the light blue simulated fish to attack the yellow simulated fishes controlled by the defender (the other team), while the defender can also use a dark blue simulated fish to block the attacker's attack. The game changes the side after 5 minutes. We won the first prize in IURC 2017 and IURC 2018.
+<div align="center"> <img src='/images/controller.png' width=500 height=300> </div>
 
-**Artistic Swimming**
+For encoding a VSR's morphology, apart from using methods such as direct encoding and Compositional Pattern Producing Network (CPPN) [5], which rely on having access to the whole design space, we provided another choice, Neural Cellular Automata (NCA) [6], which takes multiple actions to grow a robot from an initial seed (morphology), as shown below. NCA encodes complex patterns in a neural network and generates different developmental outcomes while using a smaller set of trainable parameters.
 
-In this contest, ten red simulated fishes are controlled by each team to perform artistic swimming and one yellow simulated fish is controlled by the server to disrupt other fishes.
+<div align="center"> <img src='/images/design.png' width=500 height=300> </div>
+
+Built upon the aforementioned successes, we also presented an efficient Curriculum-based Co-design (CuCo) method for learning to design and control VSRs through an easy-to-difficult process [7]. The following pictures show a developmental process of a walker agent.
+
+$3 \times 3$ design space, $9$ voxels.
+<div align="center"> <img src='/images/1.gif' width=500 height=300> </div>
+
+$5 \times 5$ design space, $25$ voxels.
+<div align="center"> <img src='/images/2.gif' width=500 height=300> </div>
+
+$7 \times 7$ design space, $49$ voxels.
+<div align="center"> <img src='/images/3.gif' width=500 height=300> </div>
+
+$9 \times 9$ design space, $81$ voxels.
+<div align="center"> <img src='/images/4.gif' width=500 height=300> </div>
+
+$11 \times 11$ design space, $121$ voxels.
+<div align="center"> <img src='/images/5.gif' width=500 height=300> </div>
+
+**Reference**
+
+[1] [ModularEvoGym](https://github.com/Yuxing-Wang-THU/ModularEvoGym)<br/>
+[2] [Evolution Gym: A Large-Scale Benchmark for Evolving Soft Robots](https://evolutiongym.github.io/)<br/>
+[3] [Attention Is All You Need](https://arxiv.org/abs/1706.03762)<br/>
+[4] [Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347)<br/>
+[5] [Compositional Pattern Producing Network](https://link.springer.com/article/10.1007/s10710-007-9028-8)<br/>
+[6] [Neural Cellular Automata](https://distill.pub/2020/growing-ca/)<br/>
+[7] [Curriculum-based Co-design of Morphology and Control of Voxel-based Soft Robots](https://yuxing-wang-thu.github.io/publication/2023-01-01-paper-title-number-1)

@@ -1,6 +1,6 @@
 ---
-title: "ModularEvoGym"
-excerpt: "Co-designing modular soft robots <br/><img src='/images/modu.jpg' width=500 height=300>"
+title: "Evolutionary Art"
+excerpt: "Linear Finite Element Method (FEM) for simulating hyperelastic cubes. <br/><img src='/images/imp.gif' width=500 height=300>"
 collection: portfolio
 ---
 
