@@ -1,6 +1,6 @@
 ---
 title: "ModularEvoGym"
-excerpt: "Co-designing modular soft robots with ModularEvoGym. <br/><img src='/images/modu.jpg' width=500 height=300>"
+excerpt: "Co-designing modular soft robots with ModularEvoGym. <br/><img src='/images/robot2.gif' width=500 height=300>"
 collection: portfolio
 ---
 
