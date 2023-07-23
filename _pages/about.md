@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 Welcome to my homepage!<br />
-Yuxing Wang is a research assistant at [Tsinghua University](https://www.tsinghua.edu.cn/)  with broad interests in Robotics, Physics Simulation, Evolutionary Reinforcement Learning and Embodied AI. He received the B.Eng. degree from [Southwest Minzu University](https://www.swun.edu.cn/), P.R. China, in 2020, and the M.Eng. degree from Tsinghua University, P.R. China, in 2023. He worked at the Game AI R&D Center of [Tencent AI Lab](https://ai.tencent.com/ailab/) as a research intern for one year (2022-2023). Besides research, he enjoys reading comic books.<br />
+Yuxing Wang is a research assistant at [Tsinghua University](https://www.tsinghua.edu.cn/)  with broad interests in Robotics, Physics Simulation, Evolutionary Reinforcement Learning and Embodied AI. He received the B.Eng. degree from [Southwest Minzu University](https://www.swun.edu.cn/), P.R. China, in 2020, and the M.Eng. degree from Tsinghua University, P.R. China, in 2023. He worked at the Game AI R&D Center of [Tencent AI Lab](https://ai.tencent.com/ailab/) as a research intern for one year (2022-2023).<br />
 He aims to develop intelligent robotic systems that dynamically adapt their morphologies and behaviors. Through this lens, He develops algorithms for co-designing the brain and body of various robots.<br />
 Feel free to drop me an email if you are interested in my research or related ideas.
 
