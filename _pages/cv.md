@@ -17,6 +17,10 @@ Education
 
 Work experience
 ======
+* **Tsinghua University**(2023.07-Now)
+  * Research Assistant @ Tsinghua SIGS                                                           
+  * Research Associate @ Research Institute of Tsinghua University in Shenzhen 
+  
 * **Tencent AI Lab/AI Platform Department**: Research Intern (2022.05-2023.05)
   * Funded by 2022 Tencent Rhino-Bird Research Elite Program
   * Research Topic: Quality-Similarity Diversity Optimization for Generating User-Preferred Game AI 
