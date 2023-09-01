@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* **Tsinghua University**(2023.07-Now)
+* **Tsinghua University** (2023.07-Now)
   * Research Assistant @ Tsinghua SIGS                                                           
   * Research Associate @ Research Institute of Tsinghua University in Shenzhen 
   
