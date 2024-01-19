@@ -14,12 +14,11 @@ Feel free to drop me an email if you are interested in my research or related id
 
 Recent News!
 ======
-&#x1F4E3; [2024/01] Served as a reviewer for [RSS 2024](https://roboticsconference.org/)<br />
-&#x1F4E3; [2024/01] Served as a reviewer for [ICML 2024](https://icml.cc/Conferences/2024/Dates)<br />
+&#x1F4E3; [2024/01] Served as a reviewer for [ICML 2024](https://icml.cc/Conferences/2024/Dates) and [RSS 2024](https://roboticsconference.org/)<br />
 &#x1F4E3; [2023/09] Served as a reviewer for [ICLR 2024](https://iclr.cc/Conferences/2024/Dates)<br />
 &#x1F4E3; [2023/09] One [paper](https://openreview.net/forum?id=E2vL12SwO1) got accepted **(Oral, Top 6.6%)** to [CoRL 2023](https://www.corl2023.org/) **(Top Conference)**<br /> 
 &#x1F4E3; [2023/06] Completed my master's thesis defense in Tsinghua University<br /> 
-&#x1F4E3; [2023/05] Served as a peer reviewer for [NIPS 2023](https://nips.cc/Conferences/2023/Board)<br />
+&#x1F4E3; [2023/05] Served as a reviewer for [NIPS 2023](https://nips.cc/Conferences/2023/Board)<br />
 &#x1F4E3; [2023/05] One [paper](https://ieeexplore.ieee.org/abstract/document/10145851) got accepted to [IEEE TNNLS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385) **(Top Journal, IF=14.255)**<br /> 
 &#x1F4E3; [2023/04] Finished one-year research internship at [Tencent AI Lab](https://ai.tencent.com/ailab/)<br />
 &#x1F4E3; [2023/01] One [paper](https://iclr.cc/virtual/2023/poster/10693) got accepted to [ICLR 2023](https://iclr.cc/Conferences/2023) **(Top Conference)**<br />
