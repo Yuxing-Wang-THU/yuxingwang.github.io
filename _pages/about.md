@@ -9,11 +9,12 @@ redirect_from:
 ---
 Welcome to my homepage!<br />
 Yuxing Wang is a research assistant at [Tsinghua University](https://www.tsinghua.edu.cn/)  with broad interests in Robotics, Physics Simulation, Evolutionary Reinforcement Learning and Embodied AI. He received the B.Eng. degree from [Southwest Minzu University](https://www.swun.edu.cn/), P.R. China, in 2020, and the M.Eng. degree from Tsinghua University, P.R. China, in 2023. He worked at the Game AI R&D Center of [Tencent AI Lab](https://ai.tencent.com/ailab/) as a research intern for one year (2022-2023).<br />
-He aims to develop intelligent robotic systems that dynamically adapt their morphologies and behaviors. Through this lens, He develops algorithms for co-designing the brain and body of various robots.<br />
+He aims to develop intelligent robotic systems that dynamically adapt their morphologies and behaviors. Through this lens, He creates magic for co-designing the brain and body of various robots.<br />
 Feel free to drop me an email if you are interested in my research or related ideas.
 
 Recent News!
 ======
+&#x1F4E3; [2024/02] Five papers submitted to [International Astronautical Congress (IAC) 2024](https://www.iac2024.org/)<br />
 &#x1F4E3; [2024/01] Served as a reviewer for [ICML 2024](https://icml.cc/Conferences/2024/Dates) and [RSS 2024](https://roboticsconference.org/)<br />
 &#x1F4E3; [2023/09] Served as a reviewer for [ICLR 2024](https://iclr.cc/Conferences/2024/Dates)<br />
 &#x1F4E3; [2023/09] One [paper](https://openreview.net/forum?id=E2vL12SwO1) got accepted **(Oral, Top 6.6%)** to [CoRL 2023](https://www.corl2023.org/) **(Top Conference)**<br /> 

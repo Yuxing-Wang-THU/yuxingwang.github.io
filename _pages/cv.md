@@ -38,7 +38,7 @@ Publications
   
 Academic service and leadership
 ======
-* Reviewer: TNNLS, Information Sciences, IEEE access, NIPS 2023 
+* Reviewer: TNNLS, Information Sciences, IEEE Access, NIPS 2023, ICLR 2024, ICML 2024, RSS 2024
 * Vice president of the students’ robot association and mathematical modeling association (SMU), 2018-2020
 * Teaching assistant of “Data Mining” and “Ethics of Artificial Intelligence” (THU), Fall 2021
 
