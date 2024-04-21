@@ -14,7 +14,7 @@ Feel free to drop me an email if you are interested in my research or related id
 
 Recent News!
 ======
-&#x1F4E3; [2024/02] Five papers submitted to [International Astronautical Congress (IAC) 2024](https://www.iac2024.org/)<br />
+&#x1F4E3; [2024/04] Three papers got accepted **(1 Oral, 2 Posters)** to [International Astronautical Congress (IAC) 2024](https://www.iac2024.org/) **(Top Conference)**<br />
 &#x1F4E3; [2024/01] Served as a reviewer for [ICML 2024](https://icml.cc/Conferences/2024/Dates) and [RSS 2024](https://roboticsconference.org/)<br />
 &#x1F4E3; [2023/09] Served as a reviewer for [ICLR 2024](https://iclr.cc/Conferences/2024/Dates)<br />
 &#x1F4E3; [2023/09] One [paper](https://openreview.net/forum?id=E2vL12SwO1) got accepted **(Oral, Top 6.6%)** to [CoRL 2023](https://www.corl2023.org/) **(Top Conference)**<br /> 
