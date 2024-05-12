@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Yuxing Wang|(王昱兴)"
-  avatar           : "yuxing.jpg"
-  bio              : "Research Assistant @ Tsinghua"
+  avatar           : "WYX.jpg"
+  bio              : "Research Assistant"
   location         : "China"
-  employer         :
+  employer         : "Tsinghua University"
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=ac-6jfMAAAAJ"
   email            : "wangyuxing@sz.tsinghua.edu.cn"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/%E6%98%B1%E5%85%B4-%E7%8E%8B-a69137309/"
   # orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
