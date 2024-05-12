@@ -10,7 +10,7 @@ redirect_from:
 您好 Привет Hello Bonjour Ciao こんにちは 안녕하세요 Hallo Hola<br />
 Welcome!<br />
 Yuxing Wang is a research assistant at [Tsinghua University](https://www.tsinghua.edu.cn/) with broad interests in Robotics, Physics Simulation, Evolutionary Reinforcement Learning and Embodied AI. He received the B.Eng. degree from [Southwest Minzu University](https://www.swun.edu.cn/), P.R. China, in 2020, and the M.Eng. degree from Tsinghua University, P.R. China, in 2023 (advised by [Prof. Xueqian Wang](https://scholar.google.com/citations?user=h9dN_ykAAAAJ&hl=zh-CN)). He was a research intern at the Game AI R&D Center of [Tencent AI Lab](https://ai.tencent.com/ailab/) from May, 2022 to May, 2023 (advised by [Shuang Wu](https://scholar.google.com/citations?hl=zh-CN&user=_MtBmxkAAAAJ) and [Haobo Fu](https://haobofu.github.io/)).<br />
-He aims to develop intelligent robotic systems that dynamically adapt their morphologies and behaviors. Through this lens, He creates magic for co-designing the brain and body of various embodied agents.<br />
+He aims to develop intelligent robotic systems that dynamically adapt their morphologies and behaviors. Through this lens, he creates magic for co-designing the brain and body of various embodied agents.<br />
 Feel free to drop me an email if you are interested in my research or related ideas.
 
 Recent News!
