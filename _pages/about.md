@@ -16,16 +16,16 @@ Feel free to drop me an email if you are interested in my research or related id
 Recent News!
 ======
 &#x1F4E3; [2024/05] I was invited to give a talk about Brain-Body Co-Design at The Chinese University of Hong Kong, Shenzhen {[PPT](./BBCD.pptx)}<br />
-&#x1F4E3; [2024/04] Three papers got accepted **(1 Oral, 2 Posters)** to [International Astronautical Congress (IAC) 2024](https://www.iac2024.org/) **(Top Conference)**. See you in Milano-Italy!<br />
+&#x1F4E3; [2024/04] Three **oral** papers got accepted to [International Astronautical Congress (IAC) 2024](https://www.iac2024.org/). See you in Milano-Italy!<br />
 &#x1F4E3; [2024/01] Served as a reviewer for [ICML 2024](https://icml.cc/Conferences/2024/Dates) and [RSS 2024](https://roboticsconference.org/)<br />
 &#x1F4E3; [2023/09] Served as a reviewer for [ICLR 2024](https://iclr.cc/Conferences/2024/Dates)<br />
-&#x1F4E3; [2023/09] One [paper](https://openreview.net/forum?id=E2vL12SwO1) got accepted **(Oral, Top 6.6%)** to [CoRL 2023](https://www.corl2023.org/) **(Top Conference)**<br /> 
+&#x1F4E3; [2023/09] One [paper](https://openreview.net/forum?id=E2vL12SwO1) got accepted **(Oral, Top 6.6%)** to [CoRL 2023](https://www.corl2023.org/)<br /> 
 &#x1F4E3; [2023/06] Completed my master's thesis defense in Tsinghua University<br /> 
 &#x1F4E3; [2023/05] Served as a reviewer for [NIPS 2023](https://nips.cc/Conferences/2023/Board)<br />
-&#x1F4E3; [2023/05] One [paper](https://ieeexplore.ieee.org/abstract/document/10145851) got accepted to [IEEE TNNLS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385) **(Top Journal, IF=14.255)**<br /> 
+&#x1F4E3; [2023/05] One [paper](https://ieeexplore.ieee.org/abstract/document/10145851) got accepted to [IEEE TNNLS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)<br /> 
 &#x1F4E3; [2023/04] Finished one-year research internship at [Tencent AI Lab](https://ai.tencent.com/ailab/)<br />
-&#x1F4E3; [2023/01] One [paper](https://iclr.cc/virtual/2023/poster/10693) got accepted to [ICLR 2023](https://iclr.cc/Conferences/2023) **(Top Conference)**<br />
-&#x1F4E3; [2022/12] One [paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025522012658) got accepted to [Information Sciences](https://www.sciencedirect.com/journal/information-sciences) **(Top Journal, IF=8.233)**<br />
+&#x1F4E3; [2023/01] One [paper](https://iclr.cc/virtual/2023/poster/10693) got accepted to [ICLR 2023](https://iclr.cc/Conferences/2023)<br />
+&#x1F4E3; [2022/12] One [paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025522012658) got accepted to [Information Sciences](https://www.sciencedirect.com/journal/information-sciences)<br />
 &#x1F4E3; ...
  
 Accomplish­ments
