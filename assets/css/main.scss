@@ -54,6 +54,8 @@
     /* 更改正文字体 */
     font-family: 'Merriweather';
     font-size: 18px;
+    text-align: justify;
+    text-align-last: justify;
   }
   
   code {
@@ -61,11 +63,6 @@
     font-family: 'Merriweather';
     font-size: 18px;
   }
-  
-  body {
-    text-align: justify;
-  }
-  
 
   /* end custom scss snippet */
   
