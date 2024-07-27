@@ -15,6 +15,7 @@ Feel free to drop me an email if you are interested in my research or related id
 
 Recent News!
 ======
+&#x1F4E3; [2024/07] Served as a program committee for [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/)<br />
 &#x1F4E3; [2024/05] I was invited to give a talk about Brain-Body Co-Design at The Chinese University of Hong Kong, Shenzhen {[PPT](./BBCD.pptx)}<br />
 &#x1F4E3; [2024/04] Three **oral** papers got accepted to [International Astronautical Congress (IAC) 2024](https://www.iac2024.org/). See you in Milano-Italy!<br />
 &#x1F4E3; [2024/01] Served as a reviewer for [ICML 2024](https://icml.cc/Conferences/2024/Dates) and [RSS 2024](https://roboticsconference.org/)<br />
